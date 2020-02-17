@@ -1,1 +1,1 @@
-# electricity-theft-detection-with-self-attention
+# Electricity theft detection with self-attention

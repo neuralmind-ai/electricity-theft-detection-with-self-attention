@@ -1,0 +1,15 @@
+## Ignoring datasets (.csv and .zip)
+*.csv
+*.zip
+*.z01
+*.z02
+
+## Ignore vscode and ipynb checkpoints
+.ipynb_checkpoints/
+.vscode/
+
+## Ignore pycache
+__pycache__/
+
+## Ignore model checkpoints
+*.pth
